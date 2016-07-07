@@ -1,0 +1,4 @@
+References
+
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+Udacity Forums: https://discussions.udacity.com/c/nd002-p3-data-wrangling

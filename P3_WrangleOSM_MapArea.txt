@@ -1,0 +1,11 @@
+Project 3: OpenStreetMap Data Wrangling (SQL)
+By Wenny Wu
+
+Map Area
+
+Richmond, Virginia, United States
+
+• https://www.openstreetmap.org/relation/206815
+• https://mapzen.com/data/metro-extracts/
+
+I grew up in Richmond, and my family is still there, so I still consider it home in many ways. I would like to contribute to RVA’s improvement on OpenStreetMap.org.
